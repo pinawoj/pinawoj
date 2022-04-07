@@ -8,11 +8,9 @@
 - :two_hearts: I'm an aspiring Java Developer who is passionate about learning new things
 - :dart: I’m currently taking an intensive Java programming course (320h)
 - 🌱 I’m currently learning Spring and Thymeleaf
-- :space_invader: When I'm not programming you can find me at the gym :muscle:, reading adventure books :book: or playing with my cat :cat:
+- :space_invader: When I'm not programming you can find me at the gym :muscle: reading adventure books :book: or playing with my cat :cat:
 
 ## Technologies I Love
-
-----
 
 [//]: # (<p align="center">)
 
@@ -42,6 +40,4 @@
 <img src="https://img.shields.io/badge/html5-orange?&style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-blue?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-purple?&style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="">
-<img src="">
 </p>
