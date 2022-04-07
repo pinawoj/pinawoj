@@ -6,8 +6,8 @@
 </p>
 
 - :smiling_face_with_three_hearts: I'm an aspiring Java Developer who is passionate about learning new things
-- :dart: I’m currently taking an intensive Java programming course (320h)
-- :seedling: I’m currently learning Spring and Thymeleaf
+- :dart: Currently taking an intensive Java programming course (320h)
+- :seedling: Right now I’m learning Spring and Thymeleaf
 - :space_invader: When I'm not programming you can find me at the gym :muscle: reading adventure books :book: or playing with my cat :cat:
 
 ## Technologies I Love
