@@ -1,4 +1,4 @@
-# Hi, I'm Paulina <img src="images/hi.gif" width="30px"/>
+# Hi, I'm Paulina <img src="images/hi.gif" alt="hi" width="30px" height="30px">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/wojcik-paulina/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
